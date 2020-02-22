@@ -7,6 +7,6 @@ export default function Index() {
         <Head>
             <title> Ana Sayfa </title>
         </Head>
-        <p>Hello Next.js</p>
+        <p>Hogeldin Next.js</p>
     </Layout>
 }
